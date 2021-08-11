@@ -23,6 +23,9 @@ Under the corresponding directory
 
 - [x] Data Collection from Various Sources
 - [x] Data Cleaning Pipeline
+- [x] Add Balanced Dataset
+- [x] Add Features to Dataset CSV
+- [ ] Data Analysis
 - [ ] Add Citations to Sources/Datasets used
 - [ ] Baseline Models on Various Baseline Models with Given Data
 - [ ] Baseline Models on Various Baseline Models with Extended Data
