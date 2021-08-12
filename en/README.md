@@ -25,9 +25,9 @@ Under the corresponding directory
 - [x] Data Cleaning Pipeline
 - [x] Add Balanced Dataset
 - [x] Add Features to Dataset CSV
-- [ ] Data Analysis
+- [x] Data Analysis
 - [ ] Add Citations to Sources/Datasets used
-- [ ] Baseline Models on Various Baseline Models with Given Data
-- [ ] Baseline Models on Various Baseline Models with Extended Data
-- [ ] Models with Profane word list as a feature
+- [x] Baseline Models on Various Baseline Models with Given Data
+- [x] Baseline Models on Various Baseline Models with Extended Data
+- [x] Models with Profane word list as a feature
 - [ ] Models with Sentiment Score as a feature
