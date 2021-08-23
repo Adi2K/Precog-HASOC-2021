@@ -12,6 +12,7 @@ Under the corresponding directory
 - `train.csv` is train set
 - `train_full.csv` is train set + val sets
 - `test.csv` is for testing and comparing models
+- `submission` folder contains submission pipeline
 
 [Drive Folder related to Data Creation](https://drive.google.com/drive/folders/1FbP7b14esyN1e5OKE0MfFh_MoOIlovN6?usp=sharing)
 
@@ -26,8 +27,10 @@ Under the corresponding directory
 - [x] Add Balanced Dataset
 - [x] Add Features to Dataset CSV
 - [x] Data Analysis
-- [ ] Add Citations to Sources/Datasets used
+- [x] Add Citations to Sources/Datasets used
 - [x] Baseline Models on Various Baseline Models with Given Data
 - [x] Baseline Models on Various Baseline Models with Extended Data
 - [x] Models with Profane word list as a feature
 - [ ] Models with Sentiment Score as a feature
+- [x] Submission Training Pipeline
+- [ ] Submission Testing Pipeline
